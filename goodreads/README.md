@@ -7,7 +7,6 @@ The dataset comprises 10,000 records with the following columns:
 Identifiers: book_id, goodreads_book_id, best_book_id, work_id
 Book Attributes: books_count, isbn, isbn13, authors, original_publication_year, original_title, title, language_code
 Rating Information: average_rating, ratings_count, work_ratings_count, work_text_reviews_count, ratings_1, ratings_2, ratings_3, ratings_4, ratings_5
-Images: image_url, small_image_url
 Missing Values
 The dataset contains missing values in five columns, which may impact the analysis. Addressing these missing values based on their significance and the analysis goals is essential.
 
